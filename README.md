@@ -2,13 +2,13 @@
 
 This repository contains my **daily Python practice** as part of my placement training.
 
-## Structure
-- Day 01 – Python Basics & Control Structures
-- Day 02 – (Upcoming)
-- Day 03 – (Upcoming)
+## Repository Structure
+- Each folder represents one day of learning (Day01, Day02, Day03, ...)
+- Topics include Python basics, problem solving, and interview-oriented concepts
+- Code is organized day-wise for easy tracking of progress
 
 ## Goal
-To build strong Python fundamentals for campus placements and technical interviews.
+To consistently improve my Python fundamentals, logic building, and coding skills for campus placements and technical interviews.
 
 👨‍🎓 **Name:** Muhammed Shan S T  
 🎓 **Course:** B.Tech CSE – LPU
