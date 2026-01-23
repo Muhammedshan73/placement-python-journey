@@ -18,7 +18,7 @@ while True:
         if student:
             print("\nall student:")
             for roll,info in student.items():
-                print('rollno: ', rollno)
+                print('rollno: ', roll)
                 print("name: ", info["name"])
                 print("course:", info['course'])
         else:
