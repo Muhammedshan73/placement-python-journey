@@ -207,15 +207,3 @@ c = {3,2}
 print(a.union(b))
 print(a.intersection(b))
 print(c.issubset(a))
-
-#--------------------------------------------------------------------------------------------Dictionary--------------------------------------------------------------------------------------
-
-
-                 
-
-
-## Why I am doing this
-I am practicing Python daily to strengthen my basics and improve my problem-solving skills for placement interviews.
-
-👨‍💻 **Name:** Muhammed Shan S T  
-📅 **Day:** 1
