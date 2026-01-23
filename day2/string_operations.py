@@ -1,0 +1,22 @@
+s = 'pythON prROgRAmming'
+print(len(s))
+print(s[-1])
+print(s[:4])
+print(s[7:18])
+print(s.lower())
+print(s.upper())
+print(s.title())
+print(s.split())
+print(s.strip())
+print(s.replace('PYTHON', 'java'))
+print(s.find('o'))
+word=s.split()
+print(word)
+a="abc"
+print(a.isalpha())
+print(a.isdigit())
+b="123"
+print(b.isdigit())
+print(b.count('p'))
+print(s.startswith('PY'))
+print(s.endswith('ing'))
